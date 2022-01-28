@@ -24,10 +24,11 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- Web / JPA / H2 / Postgres / Security  
 - Maven
+- Postman
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS / TypeScript / Hook
 - ReactJS
 - React Native
 - Apex Charts
