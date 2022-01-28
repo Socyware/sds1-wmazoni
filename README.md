@@ -77,4 +77,3 @@ Wellington Mazoni de Andrade
 
 https://www.linkedin.com/in/wmazoni
 
-https://www.linkedin.com/in/alan-souza-25006a98/
